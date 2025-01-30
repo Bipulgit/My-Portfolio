@@ -1,25 +1,58 @@
-# Personal Portfolio
+# Personal Portfolio Website
 
-Static website made with HTML, CSS, JS and Bootstrap
+A modern and responsive personal portfolio website built with HTML, CSS, JavaScript and Bootstrap.
+
+## Features
+
+- Clean and modern design
+- Fully responsive layout
+- Animated sections using AOS library 
+- Smooth scrolling navigation
+- Particle.js background animations
+- Contact form integration
+- Project showcase section
+- Skills display
+- Resume/CV download
+- Social media links
+
+## Sections
+
+- **Home** - Introduction with animated text
+- **About** - Personal info and background
+- **Resume** - Education, experience and skills
+- **Projects** - Web development project showcase
+- **Designs** - UI/UX design portfolio
+- **Contact** - Contact form and info
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 4
+- jQuery 
+- Particle.js
+- AOS (Animate On Scroll)
+- Font Awesome icons
+- Google Fonts
 
 ## Table of Contents
 
 - [Demo](#demo)
-- [Installation](#installation)
+- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://ahsankhan26.github.io/personal-portfolio)
+[Demo](--)
 
+## Setup and Installation
 
-## Installation
-
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
-   git clone https://github.com/ahsankhan26/personal-portfolio.git
+   git clone https://github.com/Bipulgit/My-Portfolio
    ```
-2. **Navigate to the project directory:**
+2. Navigate to the project directory:
    ```bash
    cd personal-portfolio
    ```

@@ -72,6 +72,11 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+
+.btn1{
+  width: 10%;
+  height: 40px;
+}
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
@@ -9158,7 +9163,7 @@ textarea.form-control {
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 1em 0; } }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
